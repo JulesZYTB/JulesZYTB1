@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JulesZYTB&theme=tokyonight&margin-w=15&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy-ryo-ma.vercel.app/?username=JulesZYTB&theme=tokyonight&margin-w=15&no-bg=true" alt="Trophies" />
 </div>
 
 <div align="center">
@@ -57,12 +57,12 @@ Passionné par la programmation depuis **8 ans**, je suis un développeur web **
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulesZYTB&show_icons=true&theme=tokyonight&count_private=true" alt="Jules's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulesZYTB&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=JulesZYTB&show_icons=true&theme=tokyonight&count_private=true" alt="Jules's GitHub stats" height="180" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=JulesZYTB&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulesZYTB&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=JulesZYTB&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
