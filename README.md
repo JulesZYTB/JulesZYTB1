@@ -1,7 +1,7 @@
 # 👋 Bienvenue sur mon profil GitHub !
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Jules%20Beaufort&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1000&color=0066FF&center=true&vCenter=true&width=1000&height=150&lines=Jules+Beaufort;Full+Stack+Developer;AI+Enthusiast" alt="Header Banner" />
 </div>
 
 <div align="center">
